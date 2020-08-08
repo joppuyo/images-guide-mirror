@@ -189,10 +189,10 @@ pre {
   background-repeat: no-repeat;
 }
 .note:before {
-  background-image: url(./images/icons/star.svg);
+  background-image: url(../images/icons/star.svg);
 }
 .key-point:before {
-  background-image: url(./images/icons/lightbulb.svg);
+  background-image: url(../images/icons/lightbulb.svg);
 }
 .container {
   margin: 0 auto;
